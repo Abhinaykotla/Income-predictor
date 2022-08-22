@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+hmmlearn
+imblearn
+scikit-image
+sklearn
