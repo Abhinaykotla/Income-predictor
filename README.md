@@ -2,8 +2,7 @@
 The project deals with using Machine Learning on Census Income dataset to predict if income is above or below $50K per annum.
 
 ## Set up
-1. You can use the `requirements.txt` file to setup a virtual environment.
-   Whether you are inside a virtual environment or otherwise, you the following command to install all dependencies:
+1. Use the following command (virtual environment is prefered)  to install all dependencies:
    ```
    pip install -r requirements.txt
    ```
